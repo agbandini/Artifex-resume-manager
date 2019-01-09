@@ -1,0 +1,13 @@
+.gmk-panel-height{
+    min-height: 450px;
+}
+
+.error{
+    color: red;
+    font-weight: normal;
+}
+
+.login-page{
+    min-height: 100%;
+    display: flow-root;
+}
